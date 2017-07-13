@@ -1,0 +1,29 @@
+ul{
+    list-style: none;
+}
+.todos{
+    margin-top: 30px;
+    border: 1px solid black;
+}
+h3{
+    margin-bottom: 20px;
+}
+.todo-element{
+    padding: 2px;
+    margin: 2px;
+}
+.user_container{
+    width:100%;
+    height:300px;
+    box-shadow: #7f7f7f 2px 2px 1px 1px;
+}
+.user_text{
+    padding:3px
+}
+.lout{
+    padding: 30px;
+    margin :10px
+}
+.btn_padding{
+    margin :4px
+}
